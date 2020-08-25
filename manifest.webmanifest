@@ -1,24 +1,25 @@
 {
-    "short_name": "pwa",
+    "short_name": "PWA",
     "name": "Ingrwf-08 in PWA",
     "theme_color": "#eb5252",
-    "background_color": "#4285f4",
+    "version": "0.0.1",
+    "background_color": "#000000",
     "display": "fullscreen",
     "Scope": "/",
     "orientation": "portrait",
     "icons": [
       {
-        "src": "images/pwa48.png",
+        "src": "images/logo-48-48.png",
         "type": "image/png",
         "sizes": "48x48"
       },
       {
-        "src": "images/pwa96.png",
+        "src": "images/logo-96-96.png",
         "type": "image/png",
         "sizes": "96x96"
       },
       {
-        "src": "images/pwa192.png",
+        "src": "images/logo-192-192.png",
         "type": "image/png",
         "sizes": "192x192"
       }
